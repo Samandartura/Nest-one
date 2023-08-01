@@ -1,0 +1,7 @@
+dict
+node_modules
+.env
+nest-cli.json
+package-look.json
+tsconfig.json
+tsconfig.build.json
